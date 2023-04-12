@@ -1,0 +1,12 @@
+.subtitle {
+  display: flex;
+  padding-bottom: 10px;
+}
+
+.date {
+  padding-right: 10px;
+}
+
+.avatar {
+  display: flex;
+}
